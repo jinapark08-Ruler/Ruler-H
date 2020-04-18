@@ -12,7 +12,7 @@ public class ImplicitConversion {
 		int iNum2 = 20;
 		float fNum = iNum2;
 		
-		System.out.println(iNum);
+		System.out.println(iNum2);
 		System.out.println(fNum);
 		
 		double dNum;

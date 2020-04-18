@@ -9,7 +9,7 @@ public class Constant {
 		MIN_NUM = 0;
 		
 		System.out.println(MAX_NUM);
-		System.out.println(MAX_NUM);
+		System.out.println(MIN_NUM);
 		
 		//MAX_NUM = 1000; 이 경우 상수는 값을 변경할 수 없으므로 오류 발
 
