@@ -12,6 +12,7 @@ public class TwoDimension2 {
 			}
 			System.out.println("");
 		}
+		
 		System.out.println(ar.length);
 		System.out.println(ar[0].length);
 
