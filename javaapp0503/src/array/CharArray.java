@@ -14,7 +14,7 @@ public class CharArray {
 		
 		//저장된 각 대문자를 출력
 		for(int i = 0; i < alphabets.length; i++) {
-			System.out.println(alphabets[i]);
+			System.out.println(alphabets[i] + "," + (int)alphabets[i]);
 		}
 
 	}
